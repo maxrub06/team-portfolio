@@ -35,3 +35,18 @@ nav a {
 nav a:hover {
     color: #3498db;
 }
+main {
+    min-height: 60vh;
+    padding: 2rem;
+}
+
+footer {
+    background: #2c3e50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
